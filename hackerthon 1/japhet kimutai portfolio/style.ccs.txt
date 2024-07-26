@@ -1,0 +1,81 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 20px;
+  background-color: #FFFDD0; 
+}
+body {
+  background-color: #f0f0f0; /* Cream background */
+  background-image: url('https://www.pexels.com/photo/rocks-on-sea-coast-20060267/'); 
+  background-size: cover;
+  background-attachment: fixed;
+  animation: backgroundChange 30s infinite;
+}
+
+img {
+  width: 100%;
+  height: auto;
+}
+Use code with caution.
+p {
+  font-size: 16px;
+  line-height: 1.5;
+  max-width: 600px;
+}
+
+header {
+  text-align: center;
+}
+
+.hero-image {
+  width: 200px;
+  border-radius: 50%;
+  margin-bottom: 20px;
+}
+
+.about-header {
+  color: green; 
+}
+
+.about-text {
+  color: black;
+}
+
+.education-header {
+  color: red; 
+
+.skills-header {
+  color: purple; 
+}
+
+.skills-item {
+  color: black;
+}
+
+.experience-header {
+  color: maroon; 
+}
+
+.experience-text {
+  color: black;
+}
+
+.projects-header {
+  color: blue; 
+}
+
+.contact-header {
+  color: black;
+}
+
+.button {
+  background-color: red;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  cursor: pointer;
+}
+
+.highlight {
+  color: maroon;
+}
